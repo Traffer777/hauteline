@@ -1,0 +1,2 @@
+CREATE TABLE IF NOT EXISTS user_state(user_id TEXT PRIMARY KEY REFERENCES users(id),cart TEXT NOT NULL DEFAULT '[]',favorites TEXT NOT NULL DEFAULT '[]',updated INTEGER NOT NULL);
+PRAGMA user_version=2;

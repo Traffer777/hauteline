@@ -1,0 +1,11 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="15.8594" height="13.8281" viewBox="0 0 15.8594 13.8281" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="dolyami-fixed-Dolyami-mark">
+<path id="Vector" d="M0 3.75H2.26562V13.8281H0V3.75ZM4.53125 2.5H6.79688V12.5781H4.53125V2.5ZM9.0625 1.25H11.3281V11.3281H9.0625V1.25ZM13.5938 0H15.8594V10.0781H13.5938V0Z" fill="url(#paint0_linear_0_4)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_4" x1="-2.10938" y1="-3.04688" x2="17.8906" y2="16.9531" gradientUnits="userSpaceOnUse">
+<stop stop-color="#474747"/>
+<stop offset="1" stop-color="#080808"/>
+</linearGradient>
+</defs>
+</svg>

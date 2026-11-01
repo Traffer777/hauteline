@@ -1,0 +1,23 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="17.8241" height="19.9537" viewBox="0 0 17.8241 19.9537" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Yandex-Split-mark">
+<path id="Vector" d="M17.6372 3.30124C14.356 -0.292511 9.51223 -0.839385 5.52786 1.11374C1.46536 3.14499 -0.722142 7.44186 0.215358 11.9731C1.07473 16.6606 4.90286 19.7075 9.43411 19.9419C12.6372 20.0981 15.3716 18.6919 17.3247 16.895L12.6372 7.67624C14.8247 6.03561 16.856 4.39499 17.6372 3.30124Z" fill="url(#paint0_radial_0_21)"/>
+<path id="Vector_2" d="M12.6372 7.67624C14.7466 9.78561 18.1841 14.395 17.7935 16.5044C17.4029 19.0825 12.481 17.0512 7.32473 12.2075L12.6372 7.67624Z" fill="url(#paint1_linear_0_21)"/>
+<path id="Vector_3" d="M12.3247 8.22311C14.5904 10.645 17.3247 14.395 17.1685 16.0356C17.0122 18.145 12.7154 16.4262 7.87161 12.2075L12.3247 8.22311Z" fill="url(#paint2_linear_0_21)"/>
+</g>
+<defs>
+<radialGradient id="paint0_radial_0_21" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(12.5224 2.59399) scale(16.7554 18.956)">
+<stop stop-color="#3EF45F"/>
+<stop offset="0.52" stop-color="#2ED353"/>
+<stop offset="0.85" stop-color="#179E3A"/>
+<stop offset="1" stop-color="#00B438"/>
+</radialGradient>
+<linearGradient id="paint1_linear_0_21" x1="7.32473" y1="7.67624" x2="17.2631" y2="18.1606" gradientUnits="userSpaceOnUse">
+<stop stop-color="#42CE75"/>
+<stop offset="1" stop-color="#A3EFC0"/>
+</linearGradient>
+<linearGradient id="paint2_linear_0_21" x1="7.87161" y1="8.22311" x2="11.1928" y2="17.0873" gradientUnits="userSpaceOnUse">
+<stop stop-color="#D91D18"/>
+<stop offset="1" stop-color="#FA6958"/>
+</linearGradient>
+</defs>
+</svg>

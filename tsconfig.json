@@ -1,0 +1,78 @@
+{
+  "compilerOptions": {
+    "target": "ES2017",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "bundler",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "react-jsx",
+    "incremental": true,
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ],
+    "paths": {
+      "@/*": [
+        "./*"
+      ]
+    },
+    "types": [
+      "node"
+    ]
+  },
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    ".next/types/**/*.ts",
+    ".next/dev/types/**/*.ts",
+    ".next-webpack/types/**/*.ts",
+    ".next-webpack/dev/types/**/*.ts",
+    ".next-pc-preview/types/**/*.ts",
+    ".next-pc-preview/dev/types/**/*.ts",
+    ".next-pc-build/types/**/*.ts",
+    ".next-pc-build/dev/types/**/*.ts",
+    ".next-pc-final/types/**/*.ts",
+    ".next-pc-final/dev/types/**/*.ts",
+    ".next-review/types/**/*.ts",
+    ".next-review/dev/types/**/*.ts",
+    ".next-review-fixed/types/**/*.ts",
+    ".next-review-fixed/dev/types/**/*.ts",
+    ".next-search-preview/types/**/*.ts",
+    ".next-search-preview/dev/types/**/*.ts",
+    ".next-resume-build/types/**/*.ts",
+    ".next-resume-build/dev/types/**/*.ts",
+    ".next-resume-preview/types/**/*.ts",
+    ".next-resume-preview/dev/types/**/*.ts",
+    ".next-loader-build/types/**/*.ts",
+    ".next-loader-build/dev/types/**/*.ts",
+    ".next-cart-state-build/types/**/*.ts",
+    ".next-cart-state-build/dev/types/**/*.ts",
+    ".next-search-gallery-build/types/**/*.ts",
+    ".next-search-gallery-build/dev/types/**/*.ts",
+    ".next-test/types/**/*.ts",
+    ".next-test/dev/types/**/*.ts",
+    ".next-build/types/**/*.ts",
+    ".next-build/dev/types/**/*.ts",
+    ".next-int/types/**/*.ts",
+    ".next-int/dev/types/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    ".next-test",
+    ".next-build",
+    ".next-webpack",
+    ".next-qa"
+  ]
+}
